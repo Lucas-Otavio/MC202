@@ -1,6 +1,6 @@
 # MC202
 My codes from the course [MC202 - Estruturas de Dados](https://www.dac.unicamp.br/portal/caderno-de-horarios/2019/2/S/G/IC/MC202) offered by IC/UNICAMP in 1s/2019.
-The course begun with an introduction to C Programming, following basic Data Structures and Algorithms.
+The course covered an Introduction to C Programming, basic Data Structures and related Algorithms.
 
 ## Introduction to C Programming
 * [Lab01](https://github.com/Lucas-Otavio/MC202/tree/main/Lab01)
