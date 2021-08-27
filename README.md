@@ -31,4 +31,4 @@ The course covered an Introduction to C Programming, basic Data Structures and r
 * [Lab12](https://github.com/Lucas-Otavio/MC202/tree/main/Lab12)
 
 ## Breadth First Search (BFS)
-* [Lab31](https://github.com/Lucas-Otavio/MC202/tree/main/Lab13)
+* [Lab13](https://github.com/Lucas-Otavio/MC202/tree/main/Lab13)
